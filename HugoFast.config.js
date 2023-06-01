@@ -1,1 +1,0 @@
-{"domain":"https://funny-haupia-b69f10.netlify.app"}
