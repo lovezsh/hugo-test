@@ -25,6 +25,15 @@
     </item>
     
     <item>
+      <title>寻找一个vue支持良好的markdown解析器</title>
+      <link>/posts/2023-6-1-%E5%AF%BB%E6%89%BE%E4%B8%80%E4%B8%AAvue%E6%94%AF%E6%8C%81%E8%89%AF%E5%A5%BD%E7%9A%84markdown%E8%A7%A3%E6%9E%90%E5%99%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2023-6-1-%E5%AF%BB%E6%89%BE%E4%B8%80%E4%B8%AAvue%E6%94%AF%E6%8C%81%E8%89%AF%E5%A5%BD%E7%9A%84markdown%E8%A7%A3%E6%9E%90%E5%99%A8/</guid>
+      <description>marked 对vue支持不是很好 下一步寻找一个vue支持良好的markdown解析器</description>
+    </item>
+    
+    <item>
       <title>测试</title>
       <link>/posts/2023-6-1-%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
