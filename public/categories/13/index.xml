@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>13 on 测试站点</title>
+    <link>/categories/13/</link>
+    <description>Recent content in 13 on 测试站点</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/categories/13/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你好测试</title>
+      <link>/posts/2023-6-8-%E4%BD%A0%E5%A5%BD%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2023-6-8-%E4%BD%A0%E5%A5%BD%E6%B5%8B%E8%AF%95/</guid>
+      <description>123</description>
+    </item>
+    
+  </channel>
+</rss>
