@@ -7,4 +7,4 @@ tags:
   -
 ---
 
-HugoFast v1版本正式推出
+HugoFast v1版本正式推出123
